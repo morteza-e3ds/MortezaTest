@@ -8,11 +8,6 @@
 # so we don't want it at all in this repo. BUT we want our SocketIO plugin (which doesn't have .git breaking issues)
 
 !/Plugins/
-/Plugins/*
-!/Plugins/SocketIOClient/**
-!/Plugins/RuntimeFilesDownloader/**
-
-**/BlacksharkEngineSDK/*
 
 .vs/
 
